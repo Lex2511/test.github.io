@@ -4,14 +4,14 @@
     "web_backend": "wp.test.exante.eu",
     "auth": "authdb-test.exante.eu"
   },
-  "stage": {
+  "load": {
     "backend": "atp-backend.load.exante.eu",
     "web_backend": "wp.load.exante.eu",
-    "auth": "authdb-load.exante.eu"
+    "auth": "authdb-stage.exante.eu"
   },
-  "load": {
+  "stage": {
     "backend": "atp-backend.stage.exante.eu",
     "web_backend": "wp.stage.exante.eu",
-    "auth": "authdb-stage.exante.eu"
+    "auth": "authdb-load.exante.eu"
   }
 }
