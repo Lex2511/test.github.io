@@ -9,5 +9,6 @@
     },
     "stage": {
           "backend": "atp-backend.prod.exante.eu",
-          "web_backend": "wp.stage.exante.eu"}
+          "web_backend": "wp.stage.exante.eu"
+    }
 }
